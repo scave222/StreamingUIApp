@@ -1,0 +1,14 @@
+C:\DonNet_Apps\DOTNETXAMARIN\StreamingUIApp\StreamingUIApp\StreamingUIApp\bin\Debug\netstandard2.0\StreamingUIApp.deps.json
+C:\DonNet_Apps\DOTNETXAMARIN\StreamingUIApp\StreamingUIApp\StreamingUIApp\bin\Debug\netstandard2.0\StreamingUIApp.dll
+C:\DonNet_Apps\DOTNETXAMARIN\StreamingUIApp\StreamingUIApp\StreamingUIApp\obj\Debug\netstandard2.0\StreamingUIApp.csprojAssemblyReference.cache
+C:\DonNet_Apps\DOTNETXAMARIN\StreamingUIApp\StreamingUIApp\StreamingUIApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\DonNet_Apps\DOTNETXAMARIN\StreamingUIApp\StreamingUIApp\StreamingUIApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\DonNet_Apps\DOTNETXAMARIN\StreamingUIApp\StreamingUIApp\StreamingUIApp\obj\Debug\netstandard2.0\StreamingUIApp.AssemblyInfoInputs.cache
+C:\DonNet_Apps\DOTNETXAMARIN\StreamingUIApp\StreamingUIApp\StreamingUIApp\obj\Debug\netstandard2.0\StreamingUIApp.AssemblyInfo.cs
+C:\DonNet_Apps\DOTNETXAMARIN\StreamingUIApp\StreamingUIApp\StreamingUIApp\obj\Debug\netstandard2.0\StreamingUIApp.csproj.CoreCompileInputs.cache
+C:\DonNet_Apps\DOTNETXAMARIN\StreamingUIApp\StreamingUIApp\StreamingUIApp\bin\Debug\netstandard2.0\ref\StreamingUIApp.dll
+C:\DonNet_Apps\DOTNETXAMARIN\StreamingUIApp\StreamingUIApp\StreamingUIApp\bin\Debug\netstandard2.0\StreamingUIApp.pdb
+C:\DonNet_Apps\DOTNETXAMARIN\StreamingUIApp\StreamingUIApp\StreamingUIApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\DonNet_Apps\DOTNETXAMARIN\StreamingUIApp\StreamingUIApp\StreamingUIApp\obj\Debug\netstandard2.0\StreamingUIApp.dll
+C:\DonNet_Apps\DOTNETXAMARIN\StreamingUIApp\StreamingUIApp\StreamingUIApp\obj\Debug\netstandard2.0\ref\StreamingUIApp.dll
+C:\DonNet_Apps\DOTNETXAMARIN\StreamingUIApp\StreamingUIApp\StreamingUIApp\obj\Debug\netstandard2.0\StreamingUIApp.pdb

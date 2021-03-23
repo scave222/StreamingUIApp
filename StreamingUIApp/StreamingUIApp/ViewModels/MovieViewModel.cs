@@ -14,6 +14,8 @@ namespace StreamingUIApp.ViewModels
         {
             movie = new ObservableCollection<Movie>
             {
+                 new Movie { MoviePicture = "Cindy.jpg"},
+                new Movie { MoviePicture = "alt.png"},
                 new Movie { MoviePicture = "ll"},
                 new Movie { MoviePicture = "Movie0"},
                 new Movie { MoviePicture = "Movie1"},

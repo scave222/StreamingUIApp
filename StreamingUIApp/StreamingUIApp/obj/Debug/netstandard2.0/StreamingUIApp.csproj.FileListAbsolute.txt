@@ -12,3 +12,17 @@ C:\DonNet_Apps\DOTNETXAMARIN\StreamingUIApp\StreamingUIApp\StreamingUIApp\obj\De
 C:\DonNet_Apps\DOTNETXAMARIN\StreamingUIApp\StreamingUIApp\StreamingUIApp\obj\Debug\netstandard2.0\StreamingUIApp.dll
 C:\DonNet_Apps\DOTNETXAMARIN\StreamingUIApp\StreamingUIApp\StreamingUIApp\obj\Debug\netstandard2.0\ref\StreamingUIApp.dll
 C:\DonNet_Apps\DOTNETXAMARIN\StreamingUIApp\StreamingUIApp\StreamingUIApp\obj\Debug\netstandard2.0\StreamingUIApp.pdb
+C:\MyProject\MyProjects\XamarineApp\StreamingUIApp\StreamingUIApp\StreamingUIApp\bin\Debug\netstandard2.0\StreamingUIApp.deps.json
+C:\MyProject\MyProjects\XamarineApp\StreamingUIApp\StreamingUIApp\StreamingUIApp\bin\Debug\netstandard2.0\StreamingUIApp.dll
+C:\MyProject\MyProjects\XamarineApp\StreamingUIApp\StreamingUIApp\StreamingUIApp\bin\Debug\netstandard2.0\ref\StreamingUIApp.dll
+C:\MyProject\MyProjects\XamarineApp\StreamingUIApp\StreamingUIApp\StreamingUIApp\bin\Debug\netstandard2.0\StreamingUIApp.pdb
+C:\MyProject\MyProjects\XamarineApp\StreamingUIApp\StreamingUIApp\StreamingUIApp\obj\Debug\netstandard2.0\StreamingUIApp.csprojAssemblyReference.cache
+C:\MyProject\MyProjects\XamarineApp\StreamingUIApp\StreamingUIApp\StreamingUIApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\MyProject\MyProjects\XamarineApp\StreamingUIApp\StreamingUIApp\StreamingUIApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\MyProject\MyProjects\XamarineApp\StreamingUIApp\StreamingUIApp\StreamingUIApp\obj\Debug\netstandard2.0\StreamingUIApp.AssemblyInfoInputs.cache
+C:\MyProject\MyProjects\XamarineApp\StreamingUIApp\StreamingUIApp\StreamingUIApp\obj\Debug\netstandard2.0\StreamingUIApp.AssemblyInfo.cs
+C:\MyProject\MyProjects\XamarineApp\StreamingUIApp\StreamingUIApp\StreamingUIApp\obj\Debug\netstandard2.0\StreamingUIApp.csproj.CoreCompileInputs.cache
+C:\MyProject\MyProjects\XamarineApp\StreamingUIApp\StreamingUIApp\StreamingUIApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\MyProject\MyProjects\XamarineApp\StreamingUIApp\StreamingUIApp\StreamingUIApp\obj\Debug\netstandard2.0\StreamingUIApp.dll
+C:\MyProject\MyProjects\XamarineApp\StreamingUIApp\StreamingUIApp\StreamingUIApp\obj\Debug\netstandard2.0\ref\StreamingUIApp.dll
+C:\MyProject\MyProjects\XamarineApp\StreamingUIApp\StreamingUIApp\StreamingUIApp\obj\Debug\netstandard2.0\StreamingUIApp.pdb
